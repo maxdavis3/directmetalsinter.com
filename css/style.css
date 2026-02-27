@@ -709,3 +709,17 @@ section { padding:8rem 0; }
   border: 1px solid rgba(231, 76, 60, 0.4);
   color: #e74c3c;
 }
+
+/* ===== SITE THEME: Digital Aqua ===== */
+:root {
+    --primary: #22d3ee;
+    --primary-dark: #0891b2;
+    --accent: #38bdf8;
+    --bg-dark: #030d11;
+    --bg-darker: #010608;
+    --bg-card: #071520;
+    --font-heading: 'Electrolize', monospace;
+    --font-body: 'DM Mono', monospace;
+}
+.site-header { background: rgba(3,13,17,0.85); }
+h1,h2,h3,h4,h5,h6 { font-weight:400; letter-spacing:0.06em; } body { font-size:0.95rem; }
