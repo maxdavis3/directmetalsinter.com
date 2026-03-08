@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laser Parameters on Direct Metal Sinter</title>
+    <link>https://directmetalsinter.com/tags/laser-parameters/</link>
+    <description>Recent content in Laser Parameters on Direct Metal Sinter</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://directmetalsinter.com/tags/laser-parameters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How DMLS Works: Laser Parameters, Build Strategy, and Process Physics</title>
+      <link>https://directmetalsinter.com/articles/guide/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://directmetalsinter.com/articles/guide/</guid>
+      <description>DMLS is often described as &amp;rsquo;laser sintering metal powder&amp;rsquo; but the physics is full melting, not sintering. Understanding the process at the parameter level is essential for design and quality.</description>
+    </item>
+  </channel>
+</rss>
